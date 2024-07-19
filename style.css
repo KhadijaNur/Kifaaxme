@@ -155,7 +155,7 @@ nav ul li a:hover {
   .hero{
 
     background: 
-    url('/images/bg-hero.jpg') center center/cover,
+    url('/images/bgimg.jpg') center center/cover,
         linear-gradient(135deg, #5a82ada3, #66d19d8f)
        ;
     background-repeat: no-repeat;
