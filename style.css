@@ -182,8 +182,7 @@ nav ul li a:hover {
     transition: border-color 0.25s;
 }
 .hero-content button a {
-    color: black;
-
+    color: #646cff;
 }
 a{
     text-decoration: none;
